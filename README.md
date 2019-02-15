@@ -1,4 +1,5 @@
 # Average Face
+Author: Wei Tan
 
 ### Summary of project
 Celebrities' photos (a total of 13,233 photos) were downloaded from "[Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)" 
