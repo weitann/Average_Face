@@ -5,7 +5,7 @@
 and pixels are averaged to produce an "average face".</p>
 
 <p>Recognize some of these faces?</p>
-![samples]((https://raw.githubusercontent.com/weitann/Average_Face/tree/master/output_images/samples8.png)
+![samples8](https://user-images.githubusercontent.com/42630569/52839720-eb7eb000-30ab-11e9-96c7-92016820bb18.png)
 
 
 
