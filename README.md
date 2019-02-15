@@ -33,7 +33,9 @@ From the above centroids and images, we observe that this clustering method caus
 
 ### Which centroid do I belong to?
 Top left: my photo, Top right, my centroid
+
 Bottom left: photo closest to my centroid, Bottom right: photo closest to my photo
+
 ![my_image](https://user-images.githubusercontent.com/42630569/52840579-985a2c80-30ae-11e9-99da-7c33ef6140ab.png)
 ![my_centroid](https://user-images.githubusercontent.com/42630569/52840641-bb84dc00-30ae-11e9-85e4-f862d7e566b2.png)
 
